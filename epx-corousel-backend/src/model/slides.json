@@ -1,0 +1,54 @@
+{
+    "slideData": [
+      {
+        "image": "https://picsum.photos/id/1/1080/500",
+        "title": "Slider Title 1",
+        "subTitle": "Secondary text 1"
+      },
+      {
+        "image": "https://picsum.photos/id/2/1080/500",
+        "title": "Slider Title 2",
+        "subTitle": "Secondary text 2"
+      },
+      {
+        "image": "https://picsum.photos/id/3/1080/500",
+        "title": "Slider Title 3",
+        "subTitle": "Secondary text 3"
+      },
+      {
+        "image": "https://picsum.photos/id/4/1080/500",
+        "title": "Slider Title 4",
+        "subTitle": "Secondary text 4"
+      },
+      {
+        "image": "https://picsum.photos/id/5/1080/500",
+        "title": "Slider Title 5",
+        "subTitle": "Secondary text 5"
+      },
+      {
+        "image": "https://picsum.photos/id/10/1080/500",
+        "title": "Slider Title 6",
+        "subTitle": "Secondary text 6"
+      },
+      {
+        "image": "https://picsum.photos/id/6/1080/500",
+        "title": "Slider Title 7",
+        "subTitle": "Secondary text 7"
+      },
+      {
+        "image": "https://picsum.photos/id/7/1080/500",
+        "title": "Slider Title 8",
+        "subTitle": "Secondary text 8"
+      },
+      {
+        "image": "https://picsum.photos/id/8/1080/500",
+        "title": "Slider Title 9",
+        "subTitle": "Secondary text 9"
+      },
+      {
+        "image": "https://picsum.photos/id/9/1080/500",
+        "title": "Slider Title 10",
+        "subTitle": "Secondary text 10"
+      }
+    ]
+  }

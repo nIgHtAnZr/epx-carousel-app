@@ -1,0 +1,16 @@
+{
+  "name": "epx-carousel-backend",
+  "version": "1.0.0",
+  "description": "Simple app that gives carousel slide data",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {}
+}
